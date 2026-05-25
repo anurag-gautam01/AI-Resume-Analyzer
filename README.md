@@ -2,6 +2,8 @@
 
 An AI-powered web application that analyzes resumes, calculates ATS scores, compares resumes with job descriptions, and provides personalized improvement suggestions to help users build recruiter-friendly resumes.
 
+> ⚠️ This project is currently in development and new features are being added continuously.
+
 ---
 
 ## 📌 Overview
@@ -146,6 +148,13 @@ Example:
 - 🎤 AI Interview Questions
 - 📈 Resume Analytics Dashboard
 - 🌐 Multi-Language Support
+
+---
+
+## 🧪 Project Status
+
+🚧 Currently in Development  
+New features, UI improvements, and AI functionalities are actively being implemented.
 
 ---
 
